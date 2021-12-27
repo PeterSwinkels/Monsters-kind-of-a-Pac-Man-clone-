@@ -1,0 +1,58 @@
+-
+>How to use this help:
+-
+  Use Escape to exit this help.
+  Use the  and  keys to scroll.
+=
+>List of keys and their functions:
+-
+  Escape = Quit a game.
+       P = Pause a game.
+     End = Stop moving the character.
+-
+>The goal of the game:
+-
+  The goal of the game is to get
+  as many dots as possible and
+  to avoid the monsters. For each
+  dot you get one point.
+-
+>Getting the dots:
+-
+  Move over the dots or next
+  to the dots to get them.
+-
+>Using the menu:
+-
+  The sound can be turned on/off
+  by moving the cursor over the
+  "Sound on/off" option and
+  pressing the Enter key.
+ 
+  To change the character's speed,
+  monster's speed and the number of
+  monsters, move the cursor to the
+  option and use the - or + keys
+  to decrease or decrease the speed
+  or number.
+-
+>Using the joystick:
+-
+  The joystick can be turned on/off
+  by moving the cursor over the
+  "Joystick on/off option and
+  pressing the Enter key.
+ 
+  If the joystick is turned on
+  and a new game is started the
+  you will be asked to enter
+  the joystick's sensitivity.
+  
+  If the joystick does not respond
+  properly during the game try
+  centering the joystick's stick
+  and pressing the J key.
+  If this does not work try starting
+  another game and using another
+  sensitivity setting.
+

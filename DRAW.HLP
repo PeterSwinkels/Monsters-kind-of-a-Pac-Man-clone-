@@ -1,0 +1,31 @@
+-
+>How to use this help:
+-
+  Use Escape to exit this help.
+  Use the  and  keys to scroll.
+=
+  Draw is used to draw a playfield
+  for the Monsters game.
+-
+>List of keys and their functions:
+-
+  Use the , ,  and  keys to move
+  the cursor. If autodraw is on, each
+  time the cursor is moved, a block
+  is drawn.
+ 
+    Backspace = Turn autodelete on/off.
+       Delete = Remove a block while
+                drawing or delete a
+                field while in the load
+                field list.
+        Enter = Draw a block.
+       Escape = Quit.
+          Tab = Turn autodraw on/off.
+  Control + n = Begin drawing
+                a new field.
+  F1 = Help.
+  F2 = Save the playfield.
+  F3 = Load a playfield.
+   M = Set monsters start position.
+   P = Set player start position.
